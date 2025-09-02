@@ -1,2 +1,2 @@
 # VISION_ENHANCED_SPEECH_TO_TEXT
-Visual speech recognition, is a technology that converts spoken words into text by watching lip movements in silent videos. 
+Visual speech recognition, also known as lipreading, is a technology that converts spoken words into text by watching lip movements in silent videos. It’s a helpful tool for talking in loud places, supporting people who can’t hear well, and allowing quiet dictation when privacy is needed. In this project, we created a new lipreading model that works from start to finish. It uses a 3D convolutional neural network (CNN) to pick up details about lip movements and shapes, a Transformer to understand long patterns in the video, and a Connectionist Temporal Classification(CTC) layer to match the video to spoken words. 
